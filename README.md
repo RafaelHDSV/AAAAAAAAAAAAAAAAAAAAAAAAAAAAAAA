@@ -35,3 +35,5 @@ Summary
 			No optical disk drives detected
 		Audio
 			Realtek High Definition Audio
+
+![image](https://github.com/user-attachments/assets/1ae84508-f88b-4a33-9311-d536001aabd5)
