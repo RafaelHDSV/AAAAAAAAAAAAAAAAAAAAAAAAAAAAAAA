@@ -37,3 +37,5 @@ Summary
 			Realtek High Definition Audio
 
 ![image](https://github.com/user-attachments/assets/1ae84508-f88b-4a33-9311-d536001aabd5)
+
+![image](https://github.com/user-attachments/assets/a0be3eeb-a1e3-4e18-9f52-ecef1cf881d0)
